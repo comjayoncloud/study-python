@@ -7,7 +7,11 @@
 
 ### 하고자 하는 것들 
 - 코딩 테스트 ( 자료구조 , 알고리즘 )
-- Javascript 문법
+
+- Javascript 문법 
+
+  - 참고 : [모던자바스크립트 deep dive](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/4801158392230?LINK=NVE)
+  
 - React Js
 
 
@@ -18,5 +22,8 @@
 
 ### To do list
 - Coding Test ( Data structure , Algorithm )
+
 - Javascript grammer
+  - Reference : [Modern Javascript deep dive](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/4801158392230?LINK=NVE)
+
 - React Js
