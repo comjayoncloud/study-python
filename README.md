@@ -10,7 +10,8 @@
 
 - Javascript 문법 
 
-  - 참고 : [모던자바스크립트 deep dive](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/4801158392230?LINK=NVE)
+  - 참고1 : [모던자바스크립트 deep dive](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/4801158392230?LINK=NVE)
+  - 참고2 : [코딩앙마 Javscript 중급강좌](https://www.youtube.com/watch?v=ocGc-AmWSnQ&list=PLZKTXPmaJk8JZ2NAC538UzhY_UNqMdZB4)
   
 - React Js
 
@@ -24,6 +25,7 @@
 - Coding Test ( Data structure , Algorithm )
 
 - Javascript grammer
-  - Reference : [Modern Javascript deep dive](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/4801158392230?LINK=NVE)
+  - Reference1 : [Modern Javascript deep dive](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/4801158392230?LINK=NVE)
+  - Reference2 : [CodingDevil Javscript middleLevel](https://www.youtube.com/watch?v=ocGc-AmWSnQ&list=PLZKTXPmaJk8JZ2NAC538UzhY_UNqMdZB4)
 
 - React Js
