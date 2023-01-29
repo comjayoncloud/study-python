@@ -16,8 +16,6 @@ d = sorted(d,key=lambda a:a[1])
 # 배열만큼 실행. i는 시작시간 j는 끝나는시간.
 for i,j in d:
     if i >= last:
-        print(i)
-        print(j)
         count +=1
         last = j 
 print(count) 
