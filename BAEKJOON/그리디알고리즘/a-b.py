@@ -46,4 +46,4 @@ while B > A:
     cnt += 1
 
 print(cnt) if B == A else print(-1)
-"""
+""" 
