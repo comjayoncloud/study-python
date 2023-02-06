@@ -1,2 +1,2 @@
-solution([1,2])
-# solution([3,6])
+        else:
+            answer[1] +=1
