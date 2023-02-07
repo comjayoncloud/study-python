@@ -34,13 +34,11 @@ solution(["p", "o", "s"], ["sod", "eocd", "qixm", "adio", "soo"])
 
 """
 다른사람 코드:
+
 def solution(spell, dic):
-    spell = set(spell) 
-    print(spell)
-    print(spell.issubset(set(dic[3])))
-    for i in dic:
-        if spell.issubset(set(i)):
-            return 1 
+    for d in dic:
+        if sorted(d) == sorted(spell):
+            return 1
     return 2
 
 """
