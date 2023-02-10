@@ -15,4 +15,12 @@ def solution(order):
 
 def solution(order):
     return sum(map(lambda x: str(order).count(str(x)), [3, 6, 9]))
+
+다른사람코드2
+
+def solution(order):
+    answer = 0
+    order = str(order)
+    return order.count('3') + order.count('6') + order.count('9')
 """
+
