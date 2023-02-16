@@ -1,2 +1,2 @@
-    # for i in range(len(num)):
-    #     print(i)
+solution(24)
+solution(999)
