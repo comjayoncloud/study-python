@@ -1,2 +1,4 @@
-solution(24)
-solution(999)
+    # if sum(a)==0:
+    #     c = f"{sum(b)}x"
+    # else:
+    #     c = f"{sum(b)}x + {sum(a)}"
