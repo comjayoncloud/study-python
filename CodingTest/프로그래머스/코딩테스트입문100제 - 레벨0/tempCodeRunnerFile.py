@@ -1,2 +1,3 @@
-    # if direction=="right":
-    #     answer.append(numbers[len(numbers)-1])
+    # while True:
+        
+    #     a+=1
