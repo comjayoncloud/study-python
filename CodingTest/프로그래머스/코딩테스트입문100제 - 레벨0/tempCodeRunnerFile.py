@@ -1,4 +1,2 @@
-    # if sum(a)==0:
-    #     c = f"{sum(b)}x"
-    # else:
-    #     c = f"{sum(b)}x + {sum(a)}"
+    # if direction=="right":
+    #     answer.append(numbers[len(numbers)-1])
