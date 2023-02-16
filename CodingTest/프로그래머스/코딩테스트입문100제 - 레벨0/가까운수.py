@@ -16,3 +16,13 @@ solution([10, 11, 12],13)
 # 2. b 배열에서 가장 작은 값 min의 인덱스를 찾자.
 # 3. 리턴값으로 a의 인덱스  
 """
+
+"""
+다른사람코드
+    def solution(array: list, n: int) -> int:
+        return array[sorted([[index, abs(n-num), num] for index, num in enumerate(array)], key=lambda x: (x[1], x[-1]))[0][0]]
+
+다른사람코드2
+    solution=lambda a,n:sorted(a,key=lambda x:(abs(x-n),x))[0]
+
+"""

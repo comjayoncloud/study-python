@@ -1,4 +1,5 @@
 """
+
 def solution(X, Y):
     answer = ''
     X,Y = sorted(list(X),reverse=True),sorted(list(Y),reverse=True)
