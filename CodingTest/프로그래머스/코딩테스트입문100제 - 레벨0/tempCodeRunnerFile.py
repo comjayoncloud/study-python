@@ -1,7 +1,9 @@
-        # elif id_pw[0] in i[0]:
-        #     print("wrongpw")
-        #     return "wrongpw"
-        # else:
-        #     print(i[0])
-        #     print("fail")
-        #     return "fail"
+1 2 4
+# 1 5 
+# 1 2 3 6
+# 1 7
+# 1 2 4 8
+# 1 3 9
+# 1 11
+# 1 13
+# 1 17
