@@ -1,2 +1,1 @@
-= re.findall("-?\d+", s)   
-    # print(nu
+print(int(len(num_list)/n))
