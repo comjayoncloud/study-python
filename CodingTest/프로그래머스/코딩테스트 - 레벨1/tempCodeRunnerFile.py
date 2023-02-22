@@ -1,1 +1,2 @@
-sorted(list(str(n)),reverse
+
+    if answer>0:
