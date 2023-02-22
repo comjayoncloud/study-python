@@ -1,2 +1,1 @@
-    # for i in len(x,n+1,x):
-    #     print(i)
+sorted(list(str(n)),reverse
