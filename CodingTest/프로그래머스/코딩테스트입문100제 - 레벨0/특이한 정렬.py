@@ -9,7 +9,6 @@ def solution(numlist, n):
 # 거리가 같지 않다면 가까운수부터 뽑기
 
 
-
 """
 해설 :
 

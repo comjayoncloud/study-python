@@ -3,7 +3,7 @@ def solution(n):
     for j in range(1,n+1):
         if n%j==0:
             answer.append(j)
-    print(answer)
-    return answer
+    
+    return sum(answer)
 
 solution(12)
