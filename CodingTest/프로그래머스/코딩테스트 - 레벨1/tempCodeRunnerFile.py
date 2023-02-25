@@ -1,2 +1,0 @@
-
-    if answer>0:
