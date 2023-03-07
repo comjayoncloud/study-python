@@ -1,3 +1,1 @@
-
-        #     s=s.replace(value,str(key))
-        # answer=s
+    print(answer,count,count1,count2)
